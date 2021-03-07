@@ -5,7 +5,7 @@ Neural style transfer is an optimization technique used to take two images—a c
 # Insight On Style Transfer using Convolutional Neural Networks
 Convolutional neural networks have proven to be tremendous in image classification and recognition tasks. CNNs have been shown to be able to replicate and optimize image representations in a unified framework and learn hierarchical representations directly from raw images.
 ## Setup Details
-[x] Keras version==2.2.4
+- Keras version==2.2.4
 TensorFlow==1.8.0
 Jupyter notebook
 Matplotlib and other utility libraries like NumPy, Pandas.
