@@ -9,4 +9,10 @@ Convolutional neural networks have proven to be tremendous in image classificati
 - TensorFlow==1.8.0
 - Jupyter notebook
 - Matplotlib and other utility libraries like NumPy, Pandas.
-- Python==3.5.7
+- Python==3.8.2
+
+## STEPS TO BUILDING THE MODEL
+
+Step 1: Build the neural style transfer model using, Python tensorflow and its libraries
+Step 2: Build a flask app
+Step 3: Integrate the neural style transfer model with the flask app
