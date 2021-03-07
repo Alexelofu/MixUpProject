@@ -10,6 +10,7 @@ Convolutional neural networks have proven to be tremendous in image classificati
 - Jupyter notebook
 - Matplotlib and other utility libraries like NumPy, Pandas.
 - Python==3.8.2
+- Flask
 
 ## STEPS TO BUILDING THE MODEL
 
