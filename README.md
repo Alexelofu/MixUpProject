@@ -13,6 +13,6 @@ Convolutional neural networks have proven to be tremendous in image classificati
 
 ## STEPS TO BUILDING THE MODEL
 
-Step 1: Build the neural style transfer model using, Python tensorflow and its libraries
-Step 2: Build a flask app
-Step 3: Integrate the neural style transfer model with the flask app
+- Step 1: Build the neural style transfer model using, Python tensorflow and its libraries
+- Step 2: Build a flask app
+- Step 3: Integrate the neural style transfer model with the flask app
