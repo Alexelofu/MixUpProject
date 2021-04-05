@@ -6,7 +6,7 @@ Neural style transfer is an optimization technique used to take two images—a c
 Convolutional neural networks have proven to be tremendous in image classification and recognition tasks. CNNs have been shown to be able to replicate and optimize image representations in a unified framework and learn hierarchical representations directly from raw images.
 
 ## Project Requirements
-- A code editor
+- A code editor (VS code)
 - Numpy
 - Matplotlib
 - Pytorch
@@ -20,6 +20,13 @@ Convolutional neural networks have proven to be tremendous in image classificati
 - Creating the style file.
 - Creating Streamlit file/[transfer.py](https://github.com/Alexelofu/Style-Transfer-Project/blob/main/style/neural_style/transfer.py)
 - Deploying to docker.
+
+## Usage/Steps to running web app
+Creating a virtual environment using pip
+``` python3 -m venv /path/to/new/virtual/environment ```
+
+
+
 
 ## References
 * [Wikipedia NST](https://en.wikipedia.org/wiki/Neural_Style_Transfer#NST)
