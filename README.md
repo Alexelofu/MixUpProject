@@ -26,6 +26,11 @@ Creating a virtual environment using pip
 
 ``` python3 -m venv /path/to/new/virtual/environment ```
 
+Activate the virtual env
+
+``` source venv/bin/activate ```
+
+
 
 
 
