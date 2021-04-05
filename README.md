@@ -18,7 +18,7 @@ Convolutional neural networks have proven to be tremendous in image classificati
 - Getting the pre-trained model.
 - Downloading the saved model.
 - Creating the style file.
-- Creating Streamlit file [transfer.py] (https://github.com/Alexelofu/Style-Transfer-Project/blob/main/style/neural_style/transfer.py)
+- [Creating Streamlit file/transfer.py](https://github.com/Alexelofu/Style-Transfer-Project/blob/main/style/neural_style/transfer.py)
 - Deploying to docker.
 
 ## References
