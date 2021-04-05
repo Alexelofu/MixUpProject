@@ -23,22 +23,22 @@ Convolutional neural networks have proven to be tremendous in image classificati
 
 ## Usage/Steps to running web app
 
-Creating a virtual environment using pip:
+- Creating a virtual environment using pip:
 
 ``` python3 -m venv /path/to/new/virtual/environment ```
 
 
-Activate the virtual env:
+- Activate the virtual env:
 
 ``` source venv/bin/activate ```
 
 
-Installing requirements into the virtual env:
+- Installing requirements into the virtual env:
 
 ``` pip install -r requirements.txt ```
 
 
-Running the app, using the Network URL:
+- Running the app, using the Network URL:
 
 ``` streamlit run transfer.py ```
 
