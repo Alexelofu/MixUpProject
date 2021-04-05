@@ -23,6 +23,7 @@ Convolutional neural networks have proven to be tremendous in image classificati
 
 ## Usage/Steps to running web app
 Creating a virtual environment using pip
+
 ``` python3 -m venv /path/to/new/virtual/environment ```
 
 
