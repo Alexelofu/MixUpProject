@@ -1,4 +1,3 @@
-![stylize](https://user-images.githubusercontent.com/67591225/113708396-13d92680-96d9-11eb-8830-e0b1521b9c6e.png)
 # Style Transfer Project
 This project uses deep learning to compose one image in the style of another image. This is known as neural style transfer and the technique will be outlined in A Neural Algorithm of Artistic Style (Gatys et al.) This project will demonstrate the original style-transfer algorithm. It optimizes the image content to a particular style. Modern approaches train a model to generate the stylized image directly (similar to cyclegan). This approach is much faster (up to 1000x).
 Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image. This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
@@ -43,6 +42,17 @@ Convolutional neural networks have proven to be tremendous in image classificati
 - Running the app, using the Network URL:
 
 ``` streamlit run transfer.py ```
+
+- The web app
+
+![stylize](https://user-images.githubusercontent.com/67591225/113708396-13d92680-96d9-11eb-8830-e0b1521b9c6e.png)
+
+Select the image you want to style and the style and then click the stylize button to allow the process of style of transfer start. The finished design is displayed below.!
+
+
+[stylize1](https://user-images.githubusercontent.com/67591225/113708978-dc1eae80-96d9-11eb-8b81-644c5674a8ea.png)
+
+
 
 
 ## References
