@@ -47,10 +47,10 @@ Convolutional neural networks have proven to be tremendous in image classificati
 
 ![stylize](https://user-images.githubusercontent.com/67591225/113708396-13d92680-96d9-11eb-8830-e0b1521b9c6e.png)
 
-Select the image you want to style and the style and then click the stylize button to allow the process of style of transfer start. The finished design is displayed below.!
+Select the image you want to style and the style and then click the stylize button to allow the process of style of transfer start. The finished design is displayed below.
 
 
-[stylize1](https://user-images.githubusercontent.com/67591225/113708978-dc1eae80-96d9-11eb-8b81-644c5674a8ea.png)
+![stylize1](https://user-images.githubusercontent.com/67591225/113708978-dc1eae80-96d9-11eb-8b81-644c5674a8ea.png)
 
 
 
